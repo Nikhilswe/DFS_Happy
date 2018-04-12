@@ -1,0 +1,2 @@
+# DFS_Happy
+You are given a graph with N vertices and M edges. Master parent is the vertex which has no parent but may have 0 or more children. In any connected component of the graph,vertex with the lowest value in that component serves as the master parent.  A vertex is called happy if it has more children than its parent. Count the number of happy vertices in the given graph.The graph has no cycles or self loops.
